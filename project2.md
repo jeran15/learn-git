@@ -1,5 +1,5 @@
-| Student | Grade | Monty | pts |
-|---------|-------|
+| Student | Grade |
+| Monty | pts |
 | Ronak   | 12 pts|
 | Nao     | 15 pts|
 | Quinn   | 18 pts|
